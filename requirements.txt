@@ -1,0 +1,6 @@
+Breast cancer is the most common type of cancer in women. When cancers are found early, they can be cured easier. Some devices detect breast cancer but many times they lead to false positive, which result in ongoing painful, expensive surgeries that were not even necessary. These type of cancers are called benign which do not require surgeries and we can reduce these unnecessary surgeries by using ML.
+
+The dataset is taken from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+in order to train the model to predict whether the cancer is benign or malignant. These predictions will help doctors to do surgeries only when the cancer is malignant, thus reducing the unnecessary surgeries for women.
+
+This dataset includes 569 instances. The data is preprocessed and scaled.
